@@ -12,8 +12,11 @@ This project is developed for educational and research purposes only.
 The developer is not responsible for misuse of this project.
 
 ## Features
+# Wi-Fi Security Analyzer 🔐
 
 - GUI-based dashboard
+- Desktop GUI (Tkinter)
+- Web Dashboard (Flask)
 - Wi-Fi network scanning
 - Security analysis (WPA/WPA2/WPA3)
 - Device detection (ARP-based)
@@ -21,3 +24,11 @@ The developer is not responsible for misuse of this project.
 - CSV & PDF reporting
 - Graph visualization
 - Machine learning anomaly detection
+
+## Run
+
+### GUI
+python gui_app/gui.py
+
+### Web
+python web_app/app.py
