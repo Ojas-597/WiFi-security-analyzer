@@ -25,6 +25,8 @@ The developer is not responsible for misuse of this project.
 - Graph visualization
 - Machine learning anomaly detection
 
+pip install -r requirements.txt
+
 ## Run
 
 ### GUI
