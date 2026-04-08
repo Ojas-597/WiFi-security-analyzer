@@ -6,7 +6,7 @@ def clear_screen():
 
 def main():
     while True:
-        clear_screen()
+        # clear_screen()   ❌ DISABLE THIS LINE (IMPORTANT)
 
         print("=" * 60)
         print("        Wi-Fi Security Analyzer (Launcher)")
